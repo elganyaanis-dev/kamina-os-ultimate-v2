@@ -1,0 +1,14 @@
+{
+  "name": "kamina-os-ultimate-v2-ecosystem",
+  "version": "1.0.0",
+  "description": "Projet connecté à l'écosystème",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "vercel-build": "npm install"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
